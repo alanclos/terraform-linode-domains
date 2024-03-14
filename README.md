@@ -1,2 +1,2 @@
-# terraform-linode-domains
-Terraform Cloud Linode Domains
+# Terraform Cloud Linode Domains
+
